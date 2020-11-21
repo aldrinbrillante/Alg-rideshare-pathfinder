@@ -1,2 +1,2 @@
 # Alg-visual-pathfinder
- Visual Pathfinder using Dijkstra's Algorithm
+ Visual Pathfinder using pygame packages to implement A*, DFS, and BFS search Algorithms
